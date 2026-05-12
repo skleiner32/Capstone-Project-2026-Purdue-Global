@@ -24,3 +24,8 @@ IT499 Capstone Network Administration Project for my Bachelor's Degree in Inform
 <img width="837" height="630" alt="image" src="https://github.com/user-attachments/assets/e9bd70b0-a778-4a98-99dc-39e17484a5e2" />
 <img width="837" height="606" alt="image" src="https://github.com/user-attachments/assets/978d13c9-da38-4e2d-951a-e4df73237283" />
 <img width="841" height="196" alt="image" src="https://github.com/user-attachments/assets/160071ac-e10f-4514-bab0-8db6ebbff37b" />
+<img width="1475" height="532" alt="image" src="https://github.com/user-attachments/assets/71681058-5bde-4514-bf9a-c088da2446e8" />
+<img width="1465" height="547" alt="image" src="https://github.com/user-attachments/assets/73df8201-8187-40a2-bfdc-5fd1fe663ddf" />
+<img width="1472" height="562" alt="image" src="https://github.com/user-attachments/assets/7d2936f8-69f6-442d-bc1b-0f2478c3da10" />
+<img width="1470" height="527" alt="image" src="https://github.com/user-attachments/assets/b55514cb-7a16-47d5-b836-6901eedf91f5" />
+<img width="1782" height="452" alt="image" src="https://github.com/user-attachments/assets/f5ff4494-b0de-4e14-8530-5fe1b9b4123b" />
